@@ -18,7 +18,7 @@ branches:
     regex: ^main
     mode: ContinuousDeployment
     tag: ""
-    increment: Minor
+    increment: Major
     prevent-increment-of-merged-branch-version: true
     track-merge-target: true
     tracks-release-branches: false
