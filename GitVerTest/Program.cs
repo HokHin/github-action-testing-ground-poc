@@ -13,3 +13,5 @@ Console.WriteLine("Hello, World - adding minor two!");
 Console.WriteLine("Hello, World - adding patch two!");
 
 Console.WriteLine("Hello, World - adding patch three!");
+
+Console.WriteLine("Hello, World - adding minor three!");
